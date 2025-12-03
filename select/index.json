@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Flying / ナナヲアカリ",
+  "base_artist": "ナナヲアカリ",
+  "createdAt": "2025-12-03T04:42:41.418914Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flying",
+      "artist": "Last Dinosaurs",
+      "has_synced": true,
+      "path": "select/01_Flying_Last_Dinosaurs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flying Foxes",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/02_Flying_Foxes_Moby.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flying Low",
+      "artist": "Mazzy Star",
+      "has_synced": true,
+      "path": "select/03_Flying_Low_Mazzy_Star.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flying Away",
+      "artist": "The Serpent Power",
+      "has_synced": true,
+      "path": "select/04_Flying_Away_The_Serpent_Power.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flying Away",
+      "artist": "Serpent Power",
+      "has_synced": true,
+      "path": "select/05_Flying_Away_Serpent_Power.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Death by Flying Saucer",
+      "artist": "Huron John",
+      "has_synced": false,
+      "path": "select/06_Death_by_Flying_Saucer_Huron_John.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Angel Flying Too Close to the Ground",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/07_Angel_Flying_Too_Close_to_the_Ground_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stages of Flying",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/08_Stages_of_Flying_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Best Friend (Feat. The Flying Dutchman aka Neo Sa)",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/09_My_Best_Friend_(Feat._The_Flying_Dutchman_aka_Neo_Sa)_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "First-Time Mother's Joy (Flying)",
+      "artist": "Mercury Rev",
+      "has_synced": true,
+      "path": "select/10_First-Time_Mother's_Joy_(Flying)_Mercury_Rev.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flying",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/pl_01_Flying_ナナヲアカリ.txt"
+    }
+  ]
+}
